@@ -1,14 +1,410 @@
 [
   {
-    "device_id": "b",
-    "status": "active"
-  },
-  {
-    "device_id": "abcdef1234567890",
+    "device_id": "tUbHtRLuCQajrjtr",
     "status": "inactive"
   },
   {
+    "device_id": "HzlXGzFTjrcgxOw1",
+    "status": "active"
+  },
+  {
+    "device_id": "kOOOQFQNdazULbgM",
+    "status": "active"
+  },
+  {
+    "device_id": "tvnpkywvJC3m0F74",
+    "status": "inactive"
+  },
+  {
+    "device_id": "BhCYw08OecJZLG4s",
+    "status": "active"
+  },
+  {
+    "device_id": "uiI0VZ7XZrhuhUNW",
+    "status": "active"
+  },
+  {
+    "device_id": "LiUBBAgllAOJvQfL",
+    "status": "inactive"
+  },
+  {
+    "device_id": "gb8iLE4ZbNTBwrb5",
+    "status": "active"
+  },
+  {
+    "device_id": "k92a2s64r8p5Lq5R",
+    "status": "active"
+  },
+  {
+    "device_id": "sUiTKqV2anf0ck0J",
+    "status": "inactive"
+  },
+  {
+    "device_id": "qDnugYUWF1YYW680",
+    "status": "active"
+  },
+  {
+    "device_id": "MTRHBtqIiqh7TKDA",
+    "status": "active"
+  },
+  {
+    "device_id": "N5f4A41UtTS5j4ys",
+    "status": "inactive"
+  },
+  {
+    "device_id": "kY8xiIQ0dMOeZVvv",
+    "status": "active"
+  },
+  {
+    "device_id": "tiJSVsZyzsye0Dr6",
+    "status": "active"
+  },
+  {
+    "device_id": "jNBIjUC2EwsFL9Lm",
+    "status": "inactive"
+  },
+  {
+    "device_id": "noZgt2EL25aGST3b",
+    "status": "active"
+  },
+  {
+    "device_id": "vRXY65SrAQ6E4fCZ",
+    "status": "active"
+  },
+  {
+    "device_id": "xu7NqcjySmLeWjm0",
+    "status": "inactive"
+  },
+  {
+    "device_id": "RBUyIoVXLYjqu3RD",
+    "status": "active"
+  },
+  {
+    "device_id": "Zzf8LOpoWtz0lPPe",
+    "status": "active"
+  },
+  {
+    "device_id": "Bss8iuyTyOHzpKk5",
+    "status": "inactive"
+  },
+  {
+    "device_id": "GKZuJkoJSmlrkFVI",
+    "status": "active"
+  },
+  {
+    "device_id": "7OGjNCLNz7QXCATJ",
+    "status": "active"
+  },
+  {
+    "device_id": "J6WFETUi9YErR65Y",
+    "status": "inactive"
+  },
+  {
+    "device_id": "HTHPILVNvmUUuDDo",
+    "status": "active"
+  },
+  {
+    "device_id": "Az8x7pQBaPxYP72n",
+    "status": "active"
+  },
+  {
+    "device_id": "dOp6IIi6bxXlAGsj",
+    "status": "inactive"
+  },
+  {
+    "device_id": "yUPYanxkOx99wNFV",
+    "status": "active"
+  },
+  {
+    "device_id": "Q9xO7puR8IY03JFS",
+    "status": "active"
+  },
+  {
+    "device_id": "xM7hP9a5k2LzJ1vC",
+    "status": "inactive"
+  },
+  {
+    "device_id": "Wf2oQ8Lr7uEiV3bN",
+    "status": "active"
+  },
+  {
+    "device_id": "aBcD1234EfGh5678",
+    "status": "active"
+  },
+  {
+    "device_id": "UiOp0987KlMn5432",
+    "status": "inactive"
+  },
+  {
+    "device_id": "ZyXwVuTsRqPoNmLk",
+    "status": "active"
+  },
+  {
+    "device_id": "JkLmNoPqRsTuVwXy",
+    "status": "active"
+  },
+  {
+    "device_id": "AaSsDdFfGgHhJjKk",
+    "status": "inactive"
+  },
+  {
+    "device_id": "LlKkJjHhGgFfDdSs",
+    "status": "active"
+  },
+  {
+    "device_id": "QqWwEeRrTtYyUuIi",
+    "status": "active"
+  },
+  {
+    "device_id": "OoPpAaSsDdFfGgHh",
+    "status": "inactive"
+  },
+  {
+    "device_id": "ZzXxCcVvBbNnMmLl",
+    "status": "active"
+  },
+  {
+    "device_id": "PpOoIiUuYyTtRrEe",
+    "status": "active"
+  },
+  {
+    "device_id": "WwQqAaZzSsXxDdCc",
+    "status": "inactive"
+  },
+  {
+    "device_id": "RrTtYyUuIiOoPpAa",
+    "status": "active"
+  },
+  {
+    "device_id": "MmNnBbVvCcXxZzAa",
+    "status": "active"
+  },
+  {
+    "device_id": "JjKkLlMmNnOoPpQq",
+    "status": "inactive"
+  },
+  {
+    "device_id": "FfDdSsAaQqWwEeRr",
+    "status": "active"
+  },
+  {
+    "device_id": "GgHhJjKkLlMmNnOo",
+    "status": "active"
+  },
+  {
+    "device_id": "VvBbNnMmLlKkJjHh",
+    "status": "inactive"
+  },
+  {
+    "device_id": "CcXxZzAaSsDdFfGg",
+    "status": "active"
+  },
+  {
+    "device_id": "TtYyUuIiOoPpAaSs",
+    "status": "active"
+  },
+  {
+    "device_id": "XxCcVvBbNnMmLlKk",
+    "status": "inactive"
+  },
+  {
+    "device_id": "QqEeWwRrTtYyUuIi",
+    "status": "active"
+  },
+  {
+    "device_id": "OoIiUuYyTtRrEeWw",
+    "status": "active"
+  },
+  {
+    "device_id": "PpQqAaSsDdFfGgHh",
+    "status": "inactive"
+  },
+  {
+    "device_id": "LlMmNnOoPpQqRrTt",
+    "status": "active"
+  },
+  {
+    "device_id": "AaZzSsXxDdCcVvBb",
+    "status": "active"
+  },
+  {
+    "device_id": "WwEeRrTtYyUuIiOo",
+    "status": "inactive"
+  },
+  {
+    "device_id": "HhJjKkLlMmNnOoPp",
+    "status": "active"
+  },
+  {
+    "device_id": "FfGgHhJjKkLlMmNn",
+    "status": "active"
+  },
+  {
+    "device_id": "SsAaQqWwEeRrTtYy",
+    "status": "inactive"
+  },
+  {
+    "device_id": "DdCcVvBbNnMmLlKk",
+    "status": "active"
+  },
+  {
+    "device_id": "ZzXxCcVvBbNnMmLl",
+    "status": "active"
+  },
+  {
+    "device_id": "PpOoIiUuYyTtRrEe",
+    "status": "inactive"
+  },
+  {
+    "device_id": "MmLlKkJjHhGgFfDd",
+    "status": "active"
+  },
+  {
+    "device_id": "AaSsDdFfGgHhJjKk",
+    "status": "active"
+  },
+  {
+    "device_id": "OoPpAaSsDdFfGgHh",
+    "status": "inactive"
+  },
+  {
+    "device_id": "QqWwEeRrTtYyUuIi",
+    "status": "active"
+  },
+  {
+    "device_id": "ZzAaSsXxDdCcVvBb",
+    "status": "active"
+  },
+  {
+    "device_id": "NnMmLlKkJjHhGgFf",
+    "status": "inactive"
+  },
+  {
+    "device_id": "RrEeTtYyUuIiOoPp",
+    "status": "active"
+  },
+  {
+    "device_id": "BbVvCcXxZzAaSsDd",
+    "status": "active"
+  },
+  {
+    "device_id": "KkLlMmNnOoPpQqRr",
+    "status": "inactive"
+  },
+  {
+    "device_id": "EeRrTtYyUuIiOoPp",
+    "status": "active"
+  },
+  {
+    "device_id": "QqWwEeRrTtYyUuIi",
+    "status": "active"
+  },
+  {
+    "device_id": "SsAaDdFfGgHhJjKk",
+    "status": "inactive"
+  },
+  {
+    "device_id": "VvBbNnMmLlKkJjHh",
+    "status": "active"
+  },
+  {
+    "device_id": "CcXxZzAaSsDdFfGg",
+    "status": "active"
+  },
+  {
+    "device_id": "TtYyUuIiOoPpQqRr",
+    "status": "inactive"
+  },
+  {
+    "device_id": "XxCcVvBbNnMmLlKk",
+    "status": "active"
+  },
+  {
+    "device_id": "ZzXxCcVvBbNnMmLl",
+    "status": "active"
+  },
+  {
+    "device_id": "PpOoIiUuYyTtRrEe",
+    "status": "inactive"
+  },
+  {
+    "device_id": "LlMmNnOoPpQqRrTt",
+    "status": "active"
+  },
+  {
+    "device_id": "AaZzSsXxDdCcVvBb",
+    "status": "active"
+  },
+  {
+    "device_id": "WwEeRrTtYyUuIiOo",
+    "status": "inactive"
+  },
+  {
+    "device_id": "HhJjKkLlMmNnOoPp",
+    "status": "active"
+  },
+  {
+    "device_id": "FfGgHhJjKkLlMmNn",
+    "status": "active"
+  },
+  {
+    "device_id": "SsAaQqWwEeRrTtYy",
+    "status": "inactive"
+  },
+  {
+    "device_id": "DdCcVvBbNnMmLlKk",
+    "status": "active"
+  },
+  {
+    "device_id": "QqEeWwRrTtYyUuIi",
+    "status": "active"
+  },
+  {
+    "device_id": "OoIiUuYyTtRrEeWw",
+    "status": "inactive"
+  },
+  {
+    "device_id": "PpQqAaSsDdFfGgHh",
+    "status": "active"
+  },
+  {
+    "device_id": "LlMmNnOoPpQqRrTt",
+    "status": "active"
+  },
+  {
+    "device_id": "AaZzSsXxDdCcVvBb",
+    "status": "inactive"
+  },
+  {
+    "device_id": "WwEeRrTtYyUuIiOo",
+    "status": "active"
+  },
+  {
+    "device_id": "HhJjKkLlMmNnOoPp",
+    "status": "active"
+  },
+  {
+    "device_id": "FfGgHhJjKkLlMmNn",
+    "status": "inactive"
+  },
+  {
+    "device_id": "SsAaQqWwEeRrTtYy",
+    "status": "active"
+  },
+  {
     "device_id": "22fc003506969c86",
-    "status": "blocked"
+    "status": "active"
+  },
+  {
+    "device_id": "ZzXxCcVvBbNnMmLl",
+    "status": "inactive"
+  },
+  {
+    "device_id": "PpOoIiUuYyTtRrEe",
+    "status": "active"
+  },
+  {
+    "device_id": "MmLlKkJjHhGgFfDd",
+    "status": "active"
   }
 ]
