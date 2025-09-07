@@ -1,56 +1,14 @@
 [
-    {
-        "device_id": "22fc003506969c86",
-        "username": "22fc003506969c86",
-        "password": "9999",
-        "expirydate": "07-10-2025",
-        "Allowoffline": false,
-        "timestamp": "2025-09-07 21:29:51",
-        "status": "blocked"
-    },
-    {
-        "device_id": "dc6ecdcfba7d9c8d",
-        "username": "dc6ecdcfba7d9c8d",
-        "password": "9999",
-        "expirydate": "07-10-2025",
-        "Allowoffline": false,
-        "timestamp": "2025-09-07 19:55:11",
-        "status": "active"
-    },
-    {
-        "device_id": "demo_t12345t",
-        "username": "demo_t12345t",
-        "password": "9999",
-        "expirydate": "07-10-2025",
-        "Allowoffline": false,
-        "timestamp": "2025-09-07 21:09:01",
-        "status": "active"
-    },
-    {
-        "device_id": "002",
-        "username": "002",
-        "password": "9999",
-        "expirydate": "07-10-2025",
-        "Allowoffline": false,
-        "timestamp": "2025-09-07 21:12:54",
-        "status": "active"
-    },
-    {
-        "device_id": "8989",
-        "username": "8989",
-        "password": "9999",
-        "expirydate": "07-10-2025",
-        "Allowoffline": false,
-        "timestamp": "2025-09-07 22:03:36",
-        "status": "active"
-    },
-    {
-        "device_id": "\"",
-        "username": "\"",
-        "password": "9999",
-        "expirydate": "07-10-2025",
-        "Allowoffline": false,
-        "timestamp": "2025-09-07 22:03:56",
-        "status": "active"
-    }
+  {
+    "device_id": "b",
+    "status": "active"
+  },
+  {
+    "device_id": "abcdef1234567890",
+    "status": "inactive"
+  },
+  {
+    "device_id": "22fc003506969c86",
+    "status": "active"
+  }
 ]
